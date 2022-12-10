@@ -1,5 +1,5 @@
-Actual next version of Urho3D
-=============================
+Actively developed fork of Urho3D
+=================================
 
 https://github.com/rbfx/rbfx/
 
